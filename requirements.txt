@@ -1,0 +1,3 @@
+prometheus-client
+speedtest-cli
+tcp-latency
